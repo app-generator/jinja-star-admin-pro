@@ -1,5 +1,10 @@
 # Change Log
 
+## [1.0.1] 2021-02-04
+
+- Update `page-profile.html`
+    - Remove `Flask` code `{{ current_user }}` references 
+
 ## [1.0.0] 2021-02-04
 ### Initial Release
 

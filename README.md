@@ -2,7 +2,7 @@
 
 > Template [boilerplate code](https://appseed.us/boilerplate-code) used by [AppSeed](https://appseed.us) to generate simple starters coded in [Flask](https://palletsprojects.com/p/flask/) - Features:
 
-- UI Kit: **Corona Dark** (PRO Version) by **BootstrapDash**
+- UI Kit: **Star Admin** (PRO Version) by **BootstrapDash**
 - Render Engine: Flask / [Jinja2](https://jinja.palletsprojects.com/)
 - Deployment scripts: Docker, Gunicorn/Nginx, HEROKU
 - Support via **Github** (issues tracker) and [Discord](https://discord.gg/fZC6hup).
