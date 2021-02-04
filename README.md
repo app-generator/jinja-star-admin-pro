@@ -11,7 +11,7 @@
 
 > Links
 
-- [Jinja Corona Dark](https://jinja-star-admin-pro.appseed-srv1.com/) - starter in action
+- [Jinja Star Admin PRO](https://jinja-star-admin-pro.appseed-srv1.com/) - starter in action
 - More [Jinja Templates](https://appseed.us/jinja-template) provided by AppSeed
 
 <br />
